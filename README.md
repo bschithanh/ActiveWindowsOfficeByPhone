@@ -13,7 +13,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
   ![image](https://github.com/user-attachments/assets/086d52f6-d6e5-4a26-be97-3fb2b81c3a5e)
 
-## ACTIVE WINDOWS BY PHONE
+## KÍCH HOẠT WINDOWS BY PHONE
 - Run **cmd** bằng quyền **Run as Administrator** rồi dán đoạn code sau vào và nhấn **Enter**
   
   ```php
