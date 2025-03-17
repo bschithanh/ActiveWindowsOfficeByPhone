@@ -4,6 +4,8 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 ![image](https://github.com/user-attachments/assets/b9a751b6-0832-4876-a972-aeaec635d792)
 
+Qúy vị có key kích hoạt By phone nhưng không getcid được, vì vậy tôi viết bài này giúp quí vị đỡ nhọc nhằn trong việc active key by phone.
+
 ## KÍCH HOẠT OFFICE BY PHONE
 - Run **cmd** bằng quyền **Run as Administrator** rồi dán đoạn code sau vào và nhấn **Enter**
   
